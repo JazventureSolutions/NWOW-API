@@ -1,0 +1,28 @@
+[13-Aug-2025 10:05:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/circu41l/nwow.jazventuresolutions.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/circu41l/nwow.jazventuresolutions.com/config/app.php on line 16
+[13-Aug-2025 10:05:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/circu41l/nwow.jazventuresolutions.com/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home4/circu41l/nwow.jazventuresolutions.com/config/cache.php on line 21
+[13-Aug-2025 10:05:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/circu41l/nwow.jazventuresolutions.com/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home4/circu41l/nwow.jazventuresolutions.com/config/session.php on line 21
+[13-Aug-2025 10:05:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/circu41l/nwow.jazventuresolutions.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/circu41l/nwow.jazventuresolutions.com/config/services.php on line 18
+[13-Aug-2025 10:05:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/circu41l/nwow.jazventuresolutions.com/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/circu41l/nwow.jazventuresolutions.com/config/broadcasting.php on line 18
+[01-Dec-2025 02:28:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/circu41l/nwow.jazventuresolutions.com/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/circu41l/nwow.jazventuresolutions.com/config/database.php on line 18
+[01-Dec-2025 02:28:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/circu41l/nwow.jazventuresolutions.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/circu41l/nwow.jazventuresolutions.com/config/app.php on line 16
